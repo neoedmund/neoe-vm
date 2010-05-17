@@ -11,4 +11,4 @@ Test PC, CPU E6500 3GHz, 4MB memory.
 
 || [http://code.google.com/p/neoe-vm/source/browse/trunk/neoe/lang/Ex1.java Ex1.java]  ||  multi-thread java    ||    9800ms  || 
 || [http://code.google.com/p/neoe-vm/source/browse/trunk/neoe/lang/Ex1s.java Ex1s.java] ||  single-thread java   ||    3400ms  || 
-|| http://code.google.com/p/neoe-vm/source/browse/trunk/Ex1e.asm Ex1e.asm]  ||  Neoe-Vm asm code     ||  236000ms  || 
+|| [http://code.google.com/p/neoe-vm/source/browse/trunk/Ex1e.asm Ex1e.asm]  ||  Neoe-Vm asm code     ||  236000ms  || 
