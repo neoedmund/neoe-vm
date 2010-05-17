@@ -1,0 +1,14 @@
+#benchmark Ex1
+
+= Introduction =
+
+Ex1 is a multi-thread program. has function calls.
+
+
+= Details =
+
+Test PC, CPU E6500 3GHz, 4MB memory.
+
+|| Ex1.java  ||  multi-thread java    ||    9800ms  || 
+|| Ex1s.java ||  single-thread java   ||    3400ms  || 
+|| Ex1e.asm  ||  Neoe-Vm asm code     ||  236000ms  || 
