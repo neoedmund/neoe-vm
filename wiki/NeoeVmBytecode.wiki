@@ -6,6 +6,7 @@ a function in Neoe-VM is a list of command code and a set of variables.
 variable count for a function is determined at compile time.
 functions can be executed serially(RUNPROC) or parallel(STARTPROC).
 also has PROCJOIN.
+variable can be accesses across functions using GETPROCVAL and SETPROCVAL.
 
 
 = Details =
